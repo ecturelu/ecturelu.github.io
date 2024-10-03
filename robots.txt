@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ecturelu.github.io/sitemap.html.gz
+Sitemap: https://ecturelu.github.io/app/sitemap.html.gz
+Sitemap: https://ecturelu.github.io/assets/sitemap.html.gz
+Sitemap: https://ecturelu.github.io/css/sitemap.html.gz
+Sitemap: https://ecturelu.github.io/data/sitemap.html.gz
+Sitemap: https://ecturelu.github.io/includes/sitemap.html.gz
+Sitemap: https://ecturelu.github.io/item/sitemap.html.gz
+Sitemap: https://ecturelu.github.io/src/sitemap.html.gz
